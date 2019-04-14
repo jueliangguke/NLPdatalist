@@ -1,3 +1,6 @@
+### Chinese Word Segmentation
+http://sighan.cs.uchicago.edu/bakeoff2005/ (Chinese)
+
 ### News Headlines Generation
 http://www.sogou.com/labs/resource/cs.php (Chinese)
 
