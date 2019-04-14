@@ -38,13 +38,11 @@ Reference: [Mining and Summarizing Customer Reviews](https://www.cs.uic.edu/~liu
 
 Dataset: [SUBJ](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
-Reference: [A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts.]
-(https://arxiv.org/abs/cs/0409058)
+Reference: [A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts.](https://arxiv.org/abs/cs/0409058)
 
 Dataset: [MPQA](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/)
 
-Reference: [Annotating expressions of opinions and emotions in language.]
-(https://www.cs.cornell.edu/home/cardie/papers/lre05withappendix.pdf)
+Reference: [Annotating expressions of opinions and emotions in language.](https://www.cs.cornell.edu/home/cardie/papers/lre05withappendix.pdf)
 
 Dataset: [TREC](http://cogcomp.org/Data/QA/QC/)
 
