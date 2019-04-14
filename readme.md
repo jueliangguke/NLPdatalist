@@ -5,7 +5,7 @@ Dataset: [PKU MSR AS CityU](http://sighan.cs.uchicago.edu/bakeoff2005/) (Chinese
 Dataset: http://www.sogou.com/labs/resource/cs.php (Chinese)
 
 ### Single Turn Conversation Response
-Dataset: [Weibo(]http://data.noahlab.com.hk/conversation/) (Chinese)
+Dataset: [Weibo](http://data.noahlab.com.hk/conversation/) (Chinese)
 
 Reference: [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
 
