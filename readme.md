@@ -32,7 +32,7 @@ Dataset: [MR](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 Reference: [Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales.]( http://www.cs.cornell.edu/home/llee/papers/pang-lee-stars.pdf)
 
-Dataset: [CR](ttps://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+Dataset: [CR](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
 Reference: [Mining and Summarizing Customer Reviews](https://www.cs.uic.edu/~liub/publications/kdd04-revSummary.pdf)
 
