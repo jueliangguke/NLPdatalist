@@ -21,3 +21,31 @@ Reference:
 [SemEval-2014 Task 1: Evaluation of Compositional Distributional Semantic Models on Full Sentences through Semantic Relatedness and Textual Entailment](https://www.aclweb.org/anthology/S14-2001)
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://www.aclweb.org/anthology/P15-1150)
+
+### Sentence Classification
+
+Dataset: [SST](https://nlp.stanford.edu/sentiment/code.html)
+
+Reference: [Recursive deep models for semantic compositionality over a sentiment treebank.](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
+
+Dataset: [MR](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+
+Reference: [Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales.]( http://www.cs.cornell.edu/home/llee/papers/pang-lee-stars.pdf)
+
+Dataset: [CR](ttps://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+
+Reference: [Mining and Summarizing Customer Reviews](https://www.cs.uic.edu/~liub/publications/kdd04-revSummary.pdf)
+
+Dataset: [SUBJ](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+
+Reference: [A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts.]
+(https://arxiv.org/abs/cs/0409058)
+
+Dataset: [MPQA](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/)
+
+Reference: [Annotating expressions of opinions and emotions in language.]
+(https://www.cs.cornell.edu/home/cardie/papers/lre05withappendix.pdf)
+
+Dataset: [TREC](http://cogcomp.org/Data/QA/QC/)
+
+Reference: [Learning question classifiers.](https://www.aclweb.org/anthology/C02-1150)
